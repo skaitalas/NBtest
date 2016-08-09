@@ -16,6 +16,8 @@ public class JavaApplication3 {
      */
     public static void main(String[] args) {
         System.out.println("Hi");
+        Person person = new Person();
+        person.setFisrtName("Giedrius");
         System.out.println("---End----");
     }
     
